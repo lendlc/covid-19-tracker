@@ -1,5 +1,5 @@
 <template>  
-    <footer class="page-footer sticky-bottom">
+    <footer class="page-footer sticky-bottom mt-3">
         <div class="footer-copyright text-center mb-2 font-small">
             Keep Safe 💖 -lendl
         </div>

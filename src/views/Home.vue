@@ -6,13 +6,14 @@
           <LocalsTotal/>
         </div>
         <!-- Local Data --> 
-        <div class="col-md-8 mb-3">
-          <LineChart/>
+        <div class="col-md-8">
+          <BarChart/>
+          
         </div>
         
           <div class="col-md-4">
             <PieChart/>
-            <BarChart/>
+            <LineChart/>
           </div>
          
         </div>
